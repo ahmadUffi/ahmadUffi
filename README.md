@@ -25,9 +25,3 @@
 - 🎓 Student at **Telkom University Purwokerto**  
 - 💡 Interested in **Web3, Smart Contracts, and DApps**  
 - 🤝 Always open for **collaboration**  
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ahmadUffi/ahmadUffi/output/snake.svg" alt="Snake animation" />
-</p>
