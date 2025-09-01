@@ -16,7 +16,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,nodejs,solidity,firebase" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=figma,canva,vscode,git,github,docker,npm" />
+  <img src="https://skillicons.dev/icons?i=figma,vscode,git,github,docker,npm" />
 </p>
 
 ---
